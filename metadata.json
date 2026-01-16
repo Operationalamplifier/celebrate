@@ -1,0 +1,5 @@
+{
+  "name": "Celebration Fireworks",
+  "description": "A high-performance, interactive fireworks simulation web application using HTML5 Canvas and React. Designed to look and feel like a mobile app.",
+  "requestFramePermissions": []
+}
